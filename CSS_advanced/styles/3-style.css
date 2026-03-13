@@ -10,14 +10,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-	color: var(--text-color);
-}
-
-a {
-	color: var(--text-color);
-}
-
 .visually-hidden {
 	display: hidden;
 }
@@ -28,4 +20,12 @@ a {
 
 .section-tagline {
 	color: var(--color-primary);
+}
+
+body {
+	color: var(--text-color);
+}
+
+a {
+	color: var(--text-color);
 }
