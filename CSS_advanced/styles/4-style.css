@@ -13,7 +13,7 @@ html {
 }
 
 .visually-hidden {
-	display: hidden;
+	display: none;
 }
 
 .card-category {
