@@ -35,7 +35,8 @@ html {
 }
 
 .section-header{
-	text-align: center;
+	text-align: var(--section-header-align);
+
 }
 
 .section-tagline {
