@@ -141,7 +141,7 @@ a:active {
 }
 
 .footer-address {
-	text-color: var(--text-color);
+	color: var(--text-color);
 }
 
 .navbar-menu {
