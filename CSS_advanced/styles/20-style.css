@@ -175,7 +175,7 @@ ul.row {
 	padding: 0;
 }
 
-.row:empty ::after {
+.row ::after {
 	display: table;
 	clear: both;
 }
